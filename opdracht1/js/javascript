@@ -1,0 +1,3 @@
+var favorieten[""];
+
+checkbox.addEventListener('click', resultatenGenerator);
